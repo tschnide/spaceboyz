@@ -1,2 +1,2 @@
 # spaceboyz
-A two dimensional space game incorporating for the opponent. 
+A two dimensional space game incorporating AI for the opponent. 
